@@ -1,0 +1,7 @@
+# application.yml==================================================================================
+# 以太
+spring:
+  application:
+    name: service-manager
+  profiles:
+    active: dev
